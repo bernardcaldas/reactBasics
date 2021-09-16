@@ -1,5 +1,11 @@
 ## React Native simple todo App
 
-## screenshots
+To-do App using expo and react native 
 
-![Screenshot](./screenShots/1.png)
+# screenshots
+
+
+<img src="./screenShots/1.png" width="300">
+
+
+sample app 
